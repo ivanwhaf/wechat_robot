@@ -6,14 +6,14 @@ This Python auto-replying wechat robot project is made by using tuling robot's a
 * 2.自动斗图、当好友发送表情包时自动存储对方发送的表情包至（wxPic文件夹），并随机发送本地表情包
 
 # 使用教程
-* 1.电脑安装python环境<br>
-* 2.python安装requests库、itchat库<br>
+* 1.电脑安装python环境
+* 2.python安装requests库、itchat库
 ```
 pip install requests
 pip install itchat
 ```
-* 3.运行tuling.py文件<br>
-* 4.扫描弹出的二维码登陆网页版微信<br>
+* 3.运行tuling.py文件
+* 4.扫描弹出的二维码登陆网页版微信
 
 # 注意事项
 * 1.请根据自身需要修改rename.py, picHandle.py, tuling.py 三个文件中的表情包存储路径path!
