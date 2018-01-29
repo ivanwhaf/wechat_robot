@@ -8,8 +8,8 @@ This Python auto-replying wechat robot project is made by using tuling robot's a
 
 # 使用教程
 
-**1.电脑安装python环境**
-* 2.python安装requests库、itchat库
+* **1.电脑安装python环境**
+* **2.python安装requests库、itchat库**
 ```
 pip install requests
 pip install itchat
@@ -19,6 +19,6 @@ pip install itchat
 
 # 注意事项
 
-* 1.请根据自身需要修改rename.py, picHandle.py, tuling.py 三个文件中的表情包存储路径path!
+* **1.请根据自身需要修改rename.py, picHandle.py, tuling.py 三个文件中的表情包存储路径path!**
 * 2.请将三个文件放在同一文件夹下
  
