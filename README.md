@@ -19,6 +19,6 @@ pip install itchat
 
 # 注意事项
 
-* **1.请根据自身需要修改rename.py, picHandle.py, tuling.py 三个文件中的表情包存储路径path!**
+* 1.请根据自身需要修改rename.py, picHandle.py, tuling.py 三个文件中的表情包存储路径path!
 * 2.请将三个文件放在同一文件夹下
  
