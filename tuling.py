@@ -2,13 +2,13 @@
 import re
 import os
 import random
-import itchat # need install
-import requests # need install
+import itchat  # need install
+import requests  # need install
 from rename import rename
 from picHandle import picHandle
 
 apiUrl = 'http://www.tuling123.com/openapi/api'
-key = '6ba78da2a3b34dfd82b350f895b97bae' # place your own key here
+key = 'xxxxxxxx'  # place your own api key here!!
 selfInfo = {}
 myName = ''
 totalPicNumber = 0
